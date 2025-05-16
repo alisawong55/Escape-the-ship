@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: c1ed6efad1b8e284faa31c3e1f21202f
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - healthPickup: {fileID: 3306793998635968494, guid: a62aac8cc8fff5a4cb583fe571577163, type: 3}
+  - energyPickup: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

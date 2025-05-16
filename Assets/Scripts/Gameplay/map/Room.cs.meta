@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: 53be142ff62e71b44b1d34a740fed8e1
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - block: {instanceID: 0}
+  - enemyLv1: {fileID: 5196505610094155851, guid: e0f0fa6e2029dc042970cf529e261c11, type: 3}
+  - enemyLv2: {instanceID: 0}
+  - enemyLv3: {instanceID: 0}
+  - pickup: {instanceID: 0}
+  - doorUp: {instanceID: 0}
+  - doorDown: {instanceID: 0}
+  - doorLeft: {instanceID: 0}
+  - doorRight: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
